@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "continuous_subarray.specs", "specs\continuous_subarray.specs\continuous_subarray.specs.csproj", "{B3FAB03D-BB1C-4BDE-AC8F-A0113FEE767A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "continuous_subarray.core", "core\continuous_subarray.core.csproj", "{C317B804-102B-473B-AD34-F4443DF348EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FAB03D-BB1C-4BDE-AC8F-A0113FEE767A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FAB03D-BB1C-4BDE-AC8F-A0113FEE767A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FAB03D-BB1C-4BDE-AC8F-A0113FEE767A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FAB03D-BB1C-4BDE-AC8F-A0113FEE767A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C317B804-102B-473B-AD34-F4443DF348EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C317B804-102B-473B-AD34-F4443DF348EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C317B804-102B-473B-AD34-F4443DF348EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C317B804-102B-473B-AD34-F4443DF348EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
