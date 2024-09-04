@@ -53,3 +53,6 @@ dotnet test
 Decidi mostrar este projeto porque ele é parte do meu workflow atual para a implementação desses desafios de programação. A implementação e os testes fornecem uma solução eficiente e bem testada para o problema de subarrays contínuas com múltiplos de `k`. 
 
 Assim acerto com menos tentativas : )
+
+## Resultado final
+![ranking leetcode](image.png)
