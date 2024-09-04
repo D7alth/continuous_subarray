@@ -31,7 +31,7 @@ O projeto utiliza o [BenchmarkDotNet](https://benchmarkdotnet.org) para medir o 
 
 Para executar os benchmarks, use o comando:
 ```bash
-dotnet run -c Release
+dotnet run -c release --project .\core\continuous_subarray.core.csproj --filter *CheckSubarraySumBenchmark*
 ```
 ## Testes Unitários
 
@@ -55,4 +55,4 @@ Decidi mostrar este projeto porque ele é parte do meu workflow atual para a imp
 Assim acerto com menos tentativas : )
 
 ## Resultado final
-![ranking leetcode](image.png)
+![ranking leetcode](Assets/image.png)
